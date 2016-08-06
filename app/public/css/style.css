@@ -1,0 +1,17 @@
+.select-dropdown {
+	color: #26a69a;
+}
+
+.home {
+	display: inline-block;
+	float: left;
+}
+
+.message {
+	color: red;
+	visibility: hidden;
+}
+
+footer.page-footer {
+	background-color: #0d71cc;
+}
